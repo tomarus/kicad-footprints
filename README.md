@@ -1,1 +1,1 @@
-This is my personal collection of KiCad footprints.
+This is my personal collection of KiCad footprints and symbols.
